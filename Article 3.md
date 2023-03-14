@@ -12,3 +12,8 @@ Another distinctive feature of the Sound Museum is its exhibits. Instead of disp
 Perhaps the most impressive aspect of the Sound Museum is its effect on visitors. By challenging conventional notions of what a museum should be, the gallery encourages visitors to approach art in a new and innovative way. The focus on sound as a medium also opens up new possibilities for artistic expression and creativity, inspiring visitors to think outside the box and explore new art forms. Additionally, the immersive and interactive nature of the exhibits creates a sense of connection and community, bringing visitors together for experiences that transcend cultural and language barriers.
 
 In conclusion, the Sound Museum is a unique and exciting space that offers visitors a truly immersive and interactive experience. By challenging conventional notions of what a museum should be, the gallery invites visitors to approach art in a new and innovative way. The focus on sound as a medium also opens up new possibilities for artistic expression and creativity, inspiring visitors to think outside the box and explore new art forms. The result is a truly transformative experience that has a lasting impact on all visitors.
+
+References:
+
+1.https://designmuseum.org/
+
