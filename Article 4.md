@@ -1,4 +1,5 @@
 Article 4:The Importance of Programming Literacy in the Digital Age
+
 Date: February 10, 2023
 
 Literacy, traditionally defined as the ability to read and write, has been a fundamental aspect of human civilization for centuries. However, as technology has advanced, so has the concept of literacy. Today, the ability to understand and use computers and programming languages ​​is an increasingly important component of literacy. In this post, I will reflect on what literacy means in the modern age, and what it means to be called computer programming literacy.
