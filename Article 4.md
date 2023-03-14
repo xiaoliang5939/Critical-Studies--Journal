@@ -10,6 +10,7 @@ In this context, computer programming literacy has become a valuable skill. Esse
 However, programming literacy is more than just technical skills. It also involves critical thinking, creativity and collaboration. Programming requires individuals to think logically and systematically, to try out different approaches, and to be able to modify their code based on feedback. It also involves the ability to collaborate with others, whether that's collaborating on a code base or seeking help from online communities.
 
 Calling computer programming literacy "literacy" is not without controversy. Some see programming as a professional skill, and calling it "literacy" confuses different types of knowledge. However, I think programming literacy is a valuable form of literacy in its own right. It involves many of the same skills as traditional literacy, such as the ability to read and interpret written text, communicate effectively, and solve problems. Additionally, given the increasing importance of technology in our lives, it is imperative that individuals develop an understanding of how technology works and the ability to engage with it in meaningful ways.
+
 References:
 
 1.Beyers, RN and Koorbanally, NA. 2010. Computer literacy: insufficient for digital age literacy learners. eSkills Summit 2010, Cape Town, 26-28 July 2010, pp 10.
