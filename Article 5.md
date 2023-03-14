@@ -1,4 +1,5 @@
 Article5：Exploring the Multifaceted Concept of Coding Literacy
+
 Date: February 12, 2023
 
 In today's world, coding literacy is becoming increasingly important. As technology continues to advance and shape our everyday lives, the ability to understand and manipulate code is becoming a necessary skill. However, the conceptual question of what exactly constitutes coding literacy can be difficult to define. In this post, I'll explore some of the factors that contribute to coding literacy and discuss quotes that inspired me to think more deeply about the topic.
