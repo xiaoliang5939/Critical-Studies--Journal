@@ -1,4 +1,5 @@
 Article 3:Exploring the Unique Experience of London's Sound Museum
+
 Date: February 3, 2023
 
 Inside London's Design Museum is the hidden Sound Museum, a unique gallery space that presents sound as an art form. The Sound Museum offers viewers an immersive and interactive experience that challenges conventional notions of what a museum should be. This critical viewing essay will explore different aspects of the Sound Museum, including its layout, exhibitions and its overall impact on visitors.
