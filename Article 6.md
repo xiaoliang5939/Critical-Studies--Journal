@@ -10,6 +10,9 @@ To make sure each plant gets the same amount of light and water, I put all the c
 
 After two weeks, I observed some plants growing taller than others. Interestingly, plants grown in sandy soil grew tallest, while those grown in clay soil grew the least. This suggests that soil type does affect plant growth.
 
+![image](https://user-images.githubusercontent.com/76156342/225165618-6ad0f263-92a0-4d2f-8621-186eb0868cd7.gif)
+
+
 This experiment shows that science can be done using low-tech methods. While advanced equipment and technology can certainly make research easier and more precise, it is still possible to conduct meaningful experiments with basic materials. Low-tech fulfills a need that is vital to an individual or a community. It contributes to sound and relevant ways of life, production and consumption in various fields such as energy, food, water, waste management, materials, housing, transport, communication, sanitation and even health. By encouraging us to go back to basics, our actions become meaningful. Low-tech is also reflected in sustainability, eco-design, resilient, robust, repairable, recyclable, agile, functional: low-tech makes you think about and optimize the environmental, social or social impacts associated with using this technology, in All phases of its life cycle (from design, concept, production, use, end of life), even if it sometimes involves using less technology, and more sharing or collaboration!
 
 In conclusion, valuable scientific results can still be produced using low-tech laboratories. By using simple materials and basic methods, it is possible to conduct meaningful experiments and teach science to students of all ages. While advanced technology certainly has its benefits, we shouldn't forget the importance of low-tech methods in scientific research.
